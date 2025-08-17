@@ -4,7 +4,7 @@ Detecting concealed emotions within apparently normal expressions is crucial for
 
 ![Alt text](./intro.jpg)
 
-(Will update full code soon...) 
+(Still organizing full code, will update soon...) 
 
 ### Main Contribution
 
